@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "143866037231",
+    "firebase_url": "https://patients2.firebaseio.com",
+    "project_id": "patients2",
+    "storage_bucket": "patients2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143866037231:android:80313b61106ae19ddd2c1a",
+        "android_client_info": {
+          "package_name": "com.example.patients2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143866037231-q3sj9otqqke937e9dqol3ift2kmgr7td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPJQVK9WdIYqXDL52fmGfhREs_UrYuzzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143866037231-q3sj9otqqke937e9dqol3ift2kmgr7td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
